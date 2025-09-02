@@ -1,0 +1,7 @@
+{
+  "name": "Real-time AI Translator & Q&A",
+  "description": "An application that translates spoken English to Spanish in real-time, automatically detects questions using AI, and generates concise answers from Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
